@@ -1,0 +1,15 @@
+form{
+	display:flex;
+	flex-direction:column;
+	margin:auto;
+}
+fieldset{
+	display:flex;	
+	margin:100px auto;
+	width:360px;
+}
+fieldset input{
+	font-size:16px;
+	padding:10px;
+	margin-bottom:10px;
+}
